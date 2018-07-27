@@ -1,0 +1,19 @@
+Испытания на расход памяти
+
+Исходный вариант 172'544 / 62'004K (файл/память после выбора орг структуры и дерева целей)
+
+OrgStructEditWidget - без изменений
+
+CentralWorkSpace 172'032 / 
+
+smartScoreWindow.cpp 172'032 / 61'860K
+
+OrgStructWidget
+OrgStructWorkSpace
+ScoreCardElement
+ScoreCardPerspectiveEditWidget
+ScoreCardTreeWidget
+ScoreCardWorkSpace                 172'032 / 61'860K
+
+Размер файла чуть уменьшился, а в памяти - нет. При последнем запуске промелькнул и исходный 
+размер 62'004K.

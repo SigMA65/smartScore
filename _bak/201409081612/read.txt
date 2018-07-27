@@ -1,0 +1,3 @@
+Попытка оптмизации расхода памяти за счёт подключения конкретных заголовков.
+см. d:\CopySync\Copy\C++prj\works\_projects\smartScore\bin\read.txt
+

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/orgStruct.ico</file>
+    </qresource>
+</RCC>
